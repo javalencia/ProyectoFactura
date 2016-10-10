@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{83BAB659-0875-4359-80E9-A3396E52B62F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "Data\Proyectofactura.Data\DataLayer.csproj", "{05F11501-01B6-4BE7-91D6-5944EB47BF30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{2CFC7B2D-81C5-4710-90CB-65F97C29E42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLayer", "Business\Proyectofactura.Business.Entities\SharedLayer.csproj", "{5D9BBE8A-3127-4A1F-8C3D-957A90B5C110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessVentas", "Business\Proyectofactura.Business\BusinessVentas.csproj", "{8BF2D6ED-4C28-4896-8AED-D102145A8023}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{40174AA8-7F4E-4FCE-A116-33DE41089E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyectofactura.UI.Process", "Presentation\Proyectofactura.UI.Process\Proyectofactura.UI.Process.csproj", "{36B5CAF2-01E3-49D2-9FDA-E17D10DD542B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyectofactura.UI.Web", "Presentation\Proyectofactura.UI.Web\Proyectofactura.UI.Web.csproj", "{1F159C7C-94CB-4891-B5F8-A3E1D4B23726}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{91C08DBF-EFC6-4C7F-9529-B69AB5F4781E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3660F465-0D90-4E73-B4AE-7DFA0E085270}"
+	ProjectSection(SolutionItems) = preProject
+		Tests\Solution Items\local.testsettings = Tests\Solution Items\local.testsettings
+		Tests\Solution Items\TraceAndTestImpact.testsettings = Tests\Solution Items\TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyectofactura.Test", "Tests\Proyectofactura.Test\Proyectofactura.Test.csproj", "{AE0EB42D-18C0-49D0-AA88-6261A61E721A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{BF664058-D917-47BB-B30F-5F47F76CAF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{CE1D2134-3069-4783-8B2D-827E97AE6AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F11501-01B6-4BE7-91D6-5944EB47BF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F11501-01B6-4BE7-91D6-5944EB47BF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F11501-01B6-4BE7-91D6-5944EB47BF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F11501-01B6-4BE7-91D6-5944EB47BF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9BBE8A-3127-4A1F-8C3D-957A90B5C110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9BBE8A-3127-4A1F-8C3D-957A90B5C110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9BBE8A-3127-4A1F-8C3D-957A90B5C110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9BBE8A-3127-4A1F-8C3D-957A90B5C110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF2D6ED-4C28-4896-8AED-D102145A8023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF2D6ED-4C28-4896-8AED-D102145A8023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF2D6ED-4C28-4896-8AED-D102145A8023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF2D6ED-4C28-4896-8AED-D102145A8023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B5CAF2-01E3-49D2-9FDA-E17D10DD542B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B5CAF2-01E3-49D2-9FDA-E17D10DD542B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B5CAF2-01E3-49D2-9FDA-E17D10DD542B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B5CAF2-01E3-49D2-9FDA-E17D10DD542B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F159C7C-94CB-4891-B5F8-A3E1D4B23726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F159C7C-94CB-4891-B5F8-A3E1D4B23726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F159C7C-94CB-4891-B5F8-A3E1D4B23726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F159C7C-94CB-4891-B5F8-A3E1D4B23726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0EB42D-18C0-49D0-AA88-6261A61E721A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0EB42D-18C0-49D0-AA88-6261A61E721A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0EB42D-18C0-49D0-AA88-6261A61E721A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0EB42D-18C0-49D0-AA88-6261A61E721A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1D2134-3069-4783-8B2D-827E97AE6AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1D2134-3069-4783-8B2D-827E97AE6AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1D2134-3069-4783-8B2D-827E97AE6AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1D2134-3069-4783-8B2D-827E97AE6AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{05F11501-01B6-4BE7-91D6-5944EB47BF30} = {83BAB659-0875-4359-80E9-A3396E52B62F}
+		{8BF2D6ED-4C28-4896-8AED-D102145A8023} = {2CFC7B2D-81C5-4710-90CB-65F97C29E42D}
+		{5D9BBE8A-3127-4A1F-8C3D-957A90B5C110} = {BF664058-D917-47BB-B30F-5F47F76CAF50}
+		{36B5CAF2-01E3-49D2-9FDA-E17D10DD542B} = {40174AA8-7F4E-4FCE-A116-33DE41089E3F}
+		{1F159C7C-94CB-4891-B5F8-A3E1D4B23726} = {40174AA8-7F4E-4FCE-A116-33DE41089E3F}
+		{CE1D2134-3069-4783-8B2D-827E97AE6AFE} = {40174AA8-7F4E-4FCE-A116-33DE41089E3F}
+		{3660F465-0D90-4E73-B4AE-7DFA0E085270} = {91C08DBF-EFC6-4C7F-9529-B69AB5F4781E}
+		{AE0EB42D-18C0-49D0-AA88-6261A61E721A} = {91C08DBF-EFC6-4C7F-9529-B69AB5F4781E}
+	EndGlobalSection
+EndGlobal

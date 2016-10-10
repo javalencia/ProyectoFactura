@@ -1,0 +1,10 @@
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.UI.Process.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.UI.Process.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Presentation\Proyectofactura.UI.Process\obj\Debug\Proyectofactura.UI.Process.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Presentation\Proyectofactura.UI.Process\obj\Debug\Proyectofactura.UI.Process.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Presentation\Proyectofactura.UI.Process\obj\Debug\Proyectofactura.UI.Process.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\bin\Proyectofactura.UI.Process.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\bin\Proyectofactura.UI.Process.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Presentation\Proyectofactura.UI.Process\obj\Debug\Proyectofactura.UI.Process.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Presentation\Proyectofactura.UI.Process\obj\Debug\Proyectofactura.UI.Process.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Presentation\Proyectofactura.UI.Process\obj\Debug\Proyectofactura.UI.Process.pdb

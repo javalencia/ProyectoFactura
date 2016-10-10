@@ -1,0 +1,4 @@
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.Test.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.Test.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Tests\Proyectofactura.Test\obj\Debug\Proyectofactura.Test.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Tests\Proyectofactura.Test\obj\Debug\Proyectofactura.Test.pdb

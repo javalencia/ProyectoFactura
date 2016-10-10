@@ -1,0 +1,10 @@
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Business\Proyectofactura.Business\obj\Debug\BusinessVentas.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.Business.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.Business.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Business\Proyectofactura.Business\obj\Debug\Proyectofactura.Business.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Business\Proyectofactura.Business\obj\Debug\Proyectofactura.Business.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Business\Proyectofactura.Business\obj\Debug\BusinessVentas.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Business\Proyectofactura.Business\obj\Debug\Proyectofactura.Business.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Business\Proyectofactura.Business\obj\Debug\Proyectofactura.Business.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\bin\Proyectofactura.Business.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\bin\Proyectofactura.Business.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.Business.Entities.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.Business.Entities.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Business\Proyectofactura.Business.Entities\obj\Debug\Proyectofactura.Business.Entities.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Business\Proyectofactura.Business.Entities\obj\Debug\Proyectofactura.Business.Entities.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\bin\Proyectofactura.Business.Entities.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\bin\Proyectofactura.Business.Entities.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Business\Proyectofactura.Business.Entities\obj\Debug\Proyectofactura.Business.Entities.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Business\Proyectofactura.Business.Entities\obj\Debug\Proyectofactura.Business.Entities.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Business\Proyectofactura.Business.Entities\obj\Debug\SharedLayer.csprojResolveAssemblyReference.cache

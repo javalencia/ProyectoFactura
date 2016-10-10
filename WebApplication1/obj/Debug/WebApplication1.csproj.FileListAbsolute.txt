@@ -1,0 +1,15 @@
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\bin\Proyectofactura.Business.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\bin\Proyectofactura.Business.Entities.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\bin\Proyectofactura.Data.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\bin\Proyectofactura.Business.Entities.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\bin\Proyectofactura.Business.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\WebApplication1\bin\Proyectofactura.Data.pdb

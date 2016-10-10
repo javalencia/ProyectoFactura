@@ -1,0 +1,10 @@
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.Data.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\bin\Proyectofactura.Data.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Data\Proyectofactura.Data\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Data\Proyectofactura.Data\obj\Debug\Proyectofactura.Data.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2010\Projects\Proyectofactura\Data\Proyectofactura.Data\obj\Debug\Proyectofactura.Data.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Data\Proyectofactura.Data\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Data\Proyectofactura.Data\obj\Debug\Proyectofactura.Data.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\bin\Proyectofactura.Data.dll
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\bin\Proyectofactura.Data.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2012\Projects\Proyectofactura\Data\Proyectofactura.Data\obj\Debug\Proyectofactura.Data.pdb
